@@ -1,7 +1,7 @@
 // Code By Preetam Singh 
 // Code of Diagonal Traversal of BST in GFG 
 // Queestion  link-> https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
-
+// www.linkedin.com/in/preetamsingh18
 
 
 void Diagonal_Node(Node* root,int hd, map<int,vector<int>>&mp){
