@@ -1,5 +1,6 @@
 // Preetam Singh (mr_vision)
 //Find median in a stream;
+// www.linkedin.com/in/preetamsingh18
 
 class Solution{
 public:
