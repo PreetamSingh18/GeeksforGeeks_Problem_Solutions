@@ -1,6 +1,6 @@
 // Code By Preetam Singh
-// https://practice.geeksforgeeks.org/problems/mirror-tree/1
-// Question link ->
+// Mirror Tree
+// Question link ->  https://practice.geeksforgeeks.org/problems/mirror-tree/1
 
 
 class Solution {
