@@ -2,7 +2,7 @@
 
 // Code BY Preetam Singh
 // Index Of an Extra Element
- Question Link -> https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1
+// Question Link -> https://practice.geeksforgeeks.org/problems/index-of-an-extra-element/1
 
 
 
